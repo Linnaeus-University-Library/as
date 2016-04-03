@@ -1,0 +1,5 @@
+﻿Mappen 'cache'
+==============
+I denna folder sparar Artikelskördaren xml-filer laddats hem via Internet.
+De används för att kunna se om det uppstått något fel i XML-parsern.
+

@@ -1,0 +1,5 @@
+﻿Mappen 'log'
+==============
+I denna folder sparar Artikelskördaren log-filer för programmen som
+körs som cronjobb
+

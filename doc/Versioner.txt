@@ -1,0 +1,20 @@
+﻿
+VERSIONER
+=========
+Detta dokument listar tidigare versioner och möjliga förslag till
+framtida versioner.
+
+Att göra
+--------
+* Göra administrationen av programmet webbaserad
+* Skapa ett bättre inloggningssystem med fler användare
+
+Versionslogg
+------------
+Version 1.00 rc1: Initial publicering. Vi har testat programmet och
+förhoppningsvis fungerar det med olika konfigurationer av PHP och
+MySQL. Innan den skarpa version 1.00 släpps vill vi ge lite tid att
+komma in med bug-rapporter, ifall programmet inte fungerar
+tillfredsställande.
+
+
